@@ -27,7 +27,7 @@ public class App
     }
 
     private static void showUsageAndExit() {
-        System.err.println("❗ Please specify the user interface mode: [GUI / CLI]");
+        System.err.println("❗ Please specify the user interface mode: [GUI / CONSOLE]");
         System.exit(1);
     }
 }
